@@ -1,7 +1,8 @@
 # conditions instructions
 
-
 Task:
+
+
 [conditions.txt](https://github.com/user-attachments/files/21810796/conditions.txt) 
 
 
@@ -96,7 +97,11 @@ print_number:
 ading conditions.txt…]()
 
 
-Thought Process <img width="761" height="491" alt="largest" src="https://github.com/user-attachments/assets/a29e6498-3734-495b-b27d-84f0ea9b9629" />
+Thought Process:
+
+
+<img width="761" height="491" alt="largest" src="https://github.com/user-attachments/assets/a29e6498-3734-495b-b27d-84f0ea9b9629" />
+
 
 Challenges: 
 
@@ -105,5 +110,12 @@ Jumping to the wrong level  causes logic bugs.
 It is east to compare the wrong values.
 
 
-Working Code ![largest](https://github.com/user-attachments/assets/0e9e1596-b4f3-4cf4-966f-b35f3d858a00)
+Working Code:
+
+![condlargest](https://github.com/user-attachments/assets/ce058226-5571-4f04-a0d7-8f21522fd15f)
+
+
+![largest](https://github.com/user-attachments/assets/0e9e1596-b4f3-4cf4-966f-b35f3d858a00)
+
+
 
