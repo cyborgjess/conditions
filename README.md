@@ -1,5 +1,9 @@
-[conditions.txt](https://github.com/user-attachments/files/21810796/conditions.txt)# conditions instructions
+# conditions instructions
+
+
 Task:
+[conditions.txt](https://github.com/user-attachments/files/21810796/conditions.txt) 
+
 
 [Uplosection .data
     nums dd 4, 8, 12, 16, 20
